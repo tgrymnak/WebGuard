@@ -11,4 +11,3 @@ First, [install NuGet](http://docs.nuget.org/docs/start-here/installing-nuget). 
 
     PM> Install-Package WGuard
 
-WGuard is Copyright &copy; 2016 Taras Grymnak under the [MIT license](https://github.com/tgrymnak/WebGuard/blob/master/LICENSE).
